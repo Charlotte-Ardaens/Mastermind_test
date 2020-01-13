@@ -1,9 +1,17 @@
 # Mastermind_test
-Code for beginners in gaming
+
 Hello all, 
-We are Charlotte  and Alexis  
+
+We are Charlotte and Alexis
+
+![GitHub Logo](/Images/CA.jpg)
+
+![GitHub Logo](/Images/AL.jpg)
+
 
 And together we have worked on the Mastermind !
+
+![GitHub Logo](/Images/game.jpg)
 
 OBJECTIVES
 We have created our first software! We were tasked with creating a game that interacts with the user, using the functions and basic python resources we have learned during the week. Our game should be able to take an input from the user and provide an output.
@@ -45,3 +53,8 @@ IMPROVEMENTS:
 
 We need to add a quit function that allows the player to quit the game before the end.
 We can improve the Beginners level by telling exactly the pegs that are correct or at least have the correct color.
+
+
+(As requested, we used Trello to structure our work as shown in the screenshot below)
+
+![GitHub Logo](/Images/Trello.jpg)
